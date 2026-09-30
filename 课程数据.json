@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "title": "2026秋季 学期课表（245714 班）",
+    "source": "推荐课表.xlsx（教务系统导出）",
+    "semester": "2026-2027 第一学期（秋季）",
+    "week1Monday": "2026-09-07",
+    "totalWeeks": 19,
+    "courseWeeks": 16
+  },
+  "periodTimes": [
+    {
+      "period": 1,
+      "start": "08:00",
+      "end": "08:45"
+    },
+    {
+      "period": 2,
+      "start": "08:50",
+      "end": "09:35"
+    },
+    {
+      "period": 3,
+      "start": "09:50",
+      "end": "10:35"
+    },
+    {
+      "period": 4,
+      "start": "10:40",
+      "end": "11:25"
+    },
+    {
+      "period": 5,
+      "start": "11:30",
+      "end": "12:15"
+    },
+    {
+      "period": 6,
+      "start": "14:00",
+      "end": "14:45"
+    },
+    {
+      "period": 7,
+      "start": "14:50",
+      "end": "15:35"
+    },
+    {
+      "period": 8,
+      "start": "15:50",
+      "end": "16:35"
+    },
+    {
+      "period": 9,
+      "start": "16:40",
+      "end": "17:25"
+    },
+    {
+      "period": 10,
+      "start": "17:30",
+      "end": "18:15"
+    },
+    {
+      "period": 11,
+      "start": "19:00",
+      "end": "19:45"
+    },
+    {
+      "period": 12,
+      "start": "19:50",
+      "end": "20:35"
+    },
+    {
+      "period": 13,
+      "start": "20:40",
+      "end": "21:25"
+    },
+    {
+      "period": 14,
+      "start": "21:30",
+      "end": "22:15"
+    }
+  ],
+  "courses": [
+    {
+      "id": "math-analysis-4-mon",
+      "name": "数学分析(4)",
+      "teachers": [
+        "NGUYEN REMY",
+        "VONG VINCENT",
+        "David FEUTRIE"
+      ],
+      "room": "科研一号楼1055",
+      "day": 1,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "english-practice-mon",
+      "name": "英语实践(1)",
+      "teachers": [
+        "韩丹"
+      ],
+      "room": "教学二号楼3001",
+      "day": 1,
+      "startPeriod": 3,
+      "endPeriod": 4,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "pe-5-mon",
+      "name": "体育（5）",
+      "teachers": [
+        "贾金赛"
+      ],
+      "room": "健身房",
+      "day": 1,
+      "startPeriod": 6,
+      "endPeriod": 7,
+      "weeks": [
+        {
+          "from": 9,
+          "to": 16
+        }
+      ],
+      "note": "用户已确认选择贾金赛（健身房）"
+    },
+    {
+      "id": "industrial-science-mon",
+      "name": "工业科学(1)",
+      "teachers": [
+        "Serygne"
+      ],
+      "room": "教学二号楼5007",
+      "day": 1,
+      "startPeriod": 8,
+      "endPeriod": 8,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "fluid-mechanics-tue",
+      "name": "流体力学",
+      "teachers": [
+        "Rémy LIENARD",
+        "Manon BARRIÈRE"
+      ],
+      "room": "科研一号楼1001",
+      "day": 2,
+      "startPeriod": 1,
+      "endPeriod": 3,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "french-culture-tue",
+      "name": "跨文化交际法语(1)",
+      "teachers": [
+        "PIAIA Nicolas Jean-Baptiste"
+      ],
+      "room": "教学一号楼4003",
+      "day": 2,
+      "startPeriod": 4,
+      "endPeriod": 5,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "fluid-mechanics-tue-6",
+      "name": "流体力学（习题课）",
+      "teachers": [
+        "Rémy LIENARD"
+      ],
+      "room": "教学二号楼5001",
+      "day": 2,
+      "startPeriod": 6,
+      "endPeriod": 6,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 15,
+          "parity": "odd"
+        },
+        {
+          "from": 2,
+          "to": 16,
+          "parity": "even"
+        }
+      ],
+      "note": "单周/双周各一条记录，时间教室相同，等效于1-16周每周第6节"
+    },
+    {
+      "id": "algebra-2-tue",
+      "name": "代数(2)",
+      "teachers": [
+        "Benoît Duvocelle",
+        "Antoine Kickens",
+        "VONG VINCENT",
+        "NGUYEN REMY",
+        "David FEUTRIE"
+      ],
+      "room": "教学二号楼5005",
+      "day": 2,
+      "startPeriod": 8,
+      "endPeriod": 9,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 1
+        },
+        {
+          "from": 3,
+          "to": 3
+        },
+        {
+          "from": 7,
+          "to": 15,
+          "parity": "odd"
+        }
+      ]
+    },
+    {
+      "id": "math-analysis-4-tue",
+      "name": "数学分析(4)",
+      "teachers": [
+        "Benoît Duvocelle",
+        "Antoine Kickens",
+        "VONG VINCENT",
+        "NGUYEN REMY",
+        "David FEUTRIE"
+      ],
+      "room": "教学二号楼5005",
+      "day": 2,
+      "startPeriod": 8,
+      "endPeriod": 9,
+      "weeks": [
+        {
+          "from": 2,
+          "to": 16,
+          "parity": "even"
+        }
+      ]
+    },
+    {
+      "id": "algebra-2-wed",
+      "name": "代数(2)",
+      "teachers": [
+        "David FEUTRIE",
+        "VONG VINCENT",
+        "NGUYEN REMY"
+      ],
+      "room": "科研一号楼1040",
+      "day": 3,
+      "startPeriod": 1,
+      "endPeriod": 3,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 4
+        },
+        {
+          "from": 6,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "industrial-science-wed",
+      "name": "工业科学(1)",
+      "teachers": [
+        "Serygne",
+        "Noé"
+      ],
+      "room": "科研一号楼1040",
+      "day": 3,
+      "startPeriod": 4,
+      "endPeriod": 5,
+      "weeks": [
+        {
+          "from": 3,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "id": "situation-policy-wed",
+      "name": "形势与政策(5)",
+      "teachers": [
+        "陈萌"
+      ],
+      "room": "第2-4周未排教室；第10周 科研一号楼1001",
+      "day": 3,
+      "startPeriod": 6,
+      "endPeriod": 7,
+      "weeks": [
+        {
+          "from": 2,
+          "to": 4
+        },
+        {
+          "from": 10,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "id": "national-security-wed",
+      "name": "国家安全（5）",
+      "teachers": [
+        "王浩伟"
+      ],
+      "room": "科研一号楼1055",
+      "day": 3,
+      "startPeriod": 8,
+      "endPeriod": 9,
+      "weeks": [
+        {
+          "from": 2,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "id": "mental-health-wed",
+      "name": "心理健康（5）",
+      "teachers": [
+        "方瑶"
+      ],
+      "room": "教学一号楼2004",
+      "day": 3,
+      "startPeriod": 8,
+      "endPeriod": 9,
+      "weeks": [
+        {
+          "from": 8,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "id": "engineering-math-thu",
+      "name": "工程数学",
+      "teachers": [
+        "VONG VINCENT",
+        "NGUYEN REMY",
+        "David FEUTRIE"
+      ],
+      "room": "科研一号楼1001",
+      "day": 4,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "optics-lab-thu",
+      "name": "光学实验",
+      "teachers": [
+        "李启泉"
+      ],
+      "room": "每周轮换，见 sessions",
+      "day": 4,
+      "startPeriod": 6,
+      "endPeriod": 9,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 13,
+          "parity": "odd"
+        }
+      ],
+      "note": "245714 班为第4列轮换组（单周）。R1 即科研一号楼。第15周无课；第16周 Practical Exam 表中排在第1列（245711-713 组），本班考核安排待确认。",
+      "sessions": [
+        {
+          "week": 1,
+          "topic": "TP1 折射式望远镜的研究与测量",
+          "room": "R1-1047",
+          "teacher": "麦棣"
+        },
+        {
+          "week": 3,
+          "topic": "TP2 分光计的调整和使用",
+          "room": "R1-1046",
+          "teacher": "李启泉"
+        },
+        {
+          "week": 5,
+          "topic": "TP4 迈克尔逊干涉仪1：干涉仪的调整",
+          "room": "R1-1044",
+          "teacher": "欧攀"
+        },
+        {
+          "week": 7,
+          "topic": "TP3 光的干涉与衍射现象",
+          "room": "R1-1047",
+          "teacher": "麦棣"
+        },
+        {
+          "week": 9,
+          "topic": "TP6 光谱仪的搭建和测量",
+          "room": "R1-1046",
+          "teacher": "李启泉"
+        },
+        {
+          "week": 11,
+          "topic": "TP5 迈克尔逊干涉仪2：干涉测量",
+          "room": "R1-1044",
+          "teacher": "王浩"
+        },
+        {
+          "week": 13,
+          "topic": "Q&A Session",
+          "room": "待定",
+          "teacher": "麦棣, 李启泉, 王浩"
+        },
+        {
+          "week": 15,
+          "topic": "答疑（备用）",
+          "room": "待定",
+          "teacher": "麦棣, 李启泉, 王浩"
+        }
+      ]
+    },
+    {
+      "id": "industrial-science-fri",
+      "name": "工业科学(1)",
+      "teachers": [
+        "Serygne",
+        "Noé"
+      ],
+      "room": "科研一号楼1001",
+      "day": 5,
+      "startPeriod": 1,
+      "endPeriod": 3,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 2
+        },
+        {
+          "from": 4,
+          "to": 16
+        }
+      ],
+      "note": "第3周仅上第3节（同教室），见 industrial-science-fri-w3"
+    },
+    {
+      "id": "industrial-science-fri-w3",
+      "name": "工业科学(1)",
+      "teachers": [
+        "Serygne",
+        "Noé"
+      ],
+      "room": "科研一号楼1001",
+      "day": 5,
+      "startPeriod": 3,
+      "endPeriod": 3,
+      "weeks": [
+        {
+          "from": 3,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "id": "engineering-math-fri",
+      "name": "工程数学",
+      "teachers": [
+        "Benoît Duvocelle",
+        "Antoine Kickens",
+        "VONG VINCENT",
+        "NGUYEN REMY",
+        "David FEUTRIE"
+      ],
+      "room": "教学二号楼5001",
+      "day": 5,
+      "startPeriod": 6,
+      "endPeriod": 7,
+      "weeks": [
+        {
+          "from": 2,
+          "to": 2
+        },
+        {
+          "from": 5,
+          "to": 6
+        },
+        {
+          "from": 8,
+          "to": 16,
+          "parity": "even"
+        }
+      ]
+    },
+    {
+      "id": "french-general-fri",
+      "name": "综合法语(5)",
+      "teachers": [
+        "Célia SALEM"
+      ],
+      "room": "教学二号楼4006",
+      "day": 5,
+      "startPeriod": 8,
+      "endPeriod": 10,
+      "weeks": [
+        {
+          "from": 1,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": "algebra-2-sat-a",
+      "name": "代数(2)",
+      "teachers": [
+        "Benoît Duvocelle",
+        "Antoine Kickens",
+        "VONG VINCENT",
+        "NGUYEN REMY",
+        "David FEUTRIE"
+      ],
+      "room": "教学二号楼5005",
+      "day": 6,
+      "startPeriod": 3,
+      "endPeriod": 4,
+      "weeks": [
+        {
+          "from": 5,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "id": "algebra-2-sat-b",
+      "name": "代数(2)",
+      "teachers": [
+        "NGUYEN REMY"
+      ],
+      "room": "科研一号楼1040",
+      "day": 6,
+      "startPeriod": 6,
+      "endPeriod": 8,
+      "weeks": [
+        {
+          "from": 5,
+          "to": 5
+        }
+      ]
+    }
+  ],
+  "unlistedCourses": [
+    {
+      "name": "社会实践",
+      "teachers": [
+        "李刚"
+      ],
+      "weeks": "1-16周",
+      "note": "不排课"
+    },
+    {
+      "name": "素质教育（博雅课程）（5）",
+      "teachers": [
+        "牛莹嵘"
+      ],
+      "weeks": "1-16周",
+      "note": "不排课"
+    }
+  ]
+}
